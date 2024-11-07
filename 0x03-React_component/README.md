@@ -1,4 +1,4 @@
-## 0x03. React component
+0x03. React component
 ### Learning Objectives
 - When to use a Class or a function to create a component
 - The lifecycle of a Class component
